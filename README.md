@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.humberto3560)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=jrjtXSnhBlKPHpTVjqRgpHpTKKVqWVtjBkNKJMSwqLPNXFBhQFPKhRZWpJgTrBLDBKcJnCQZ)
 
-![Humberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Humberto3560&show_icons=true&theme=radical)
+![Humberto Languages Works]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/Humberto3560/github-readme-stats))
 
 ### Tecnologias que atualmente Trabalho:
 
