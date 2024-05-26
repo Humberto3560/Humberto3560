@@ -10,7 +10,7 @@
 
 ### Nivel De Conhecimento:
 ### atualmente estou em continuo aprendizado fazendo diversos Curso entre eles temos os sites:
-[![Curso Em Video](https://yt3.googleusercontent.com/ytc/AIdro_mPhguo8Ufpi-0XIF7xEDVgpSsB_pcYmNvECZp40wioAvY=s160-c-k-c0x00ffffff-no-rj)](https://www.cursoemvideo.com/cursos/)
+[![Jornada Do Dev](https://jornadadodev.com.br/)()
 
 ### Explicação sobre minhas buscas profissonais
 
