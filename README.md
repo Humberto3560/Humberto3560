@@ -8,13 +8,10 @@
 [![Twitter](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.humberto3560)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=jrjtXSnhBlKPHpTVjqRgpHpTKKVqWVtjBkNKJMSwqLPNXFBhQFPKhRZWpJgTrBLDBKcJnCQZ)
 
-### Nivel De Conhecimento:
-### atualmente estou em continuo aprendizado fazendo diversos Curso entre eles temos os sites:
-
-[![Jornada Do Dev](https://media.licdn.com/dms/image/D4D3DAQG17LTZ6w16Tg/image-scale_127_750/0/1683996475298/jornada_do_dev_cover?e=2147483647&v=beta&t=KVyU550-9EPNIolW5PEkKLXqmVbRUzMEKHvIR8ApgzM)](https://jornadadodev.com.br/)
-
-[![Eu capacito](https://www.eucapacito.com.br/wp-content/uploads/2023/07/logo.svg)](https://www.eucapacito.com.br/)
-
+### atualmente estou em aprendizado e estou fazendo cursos em varios sites entre eles temos:
+### curso em video
+### jornada do dev
+### eu capacito
 
 ### Explicação sobre minhas buscas profissonais
 
