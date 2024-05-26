@@ -10,7 +10,11 @@
 
 ### Nivel De Conhecimento:
 ### atualmente estou em continuo aprendizado fazendo diversos Curso entre eles temos os sites:
-[![Jornada Do Dev](https://jornadadodev.com.br/)()
+
+[![Jornada Do Dev](https://media.licdn.com/dms/image/D4D3DAQG17LTZ6w16Tg/image-scale_127_750/0/1683996475298/jornada_do_dev_cover?e=2147483647&v=beta&t=KVyU550-9EPNIolW5PEkKLXqmVbRUzMEKHvIR8ApgzM)](https://jornadadodev.com.br/)
+
+[![Eu capacito](https://www.eucapacito.com.br/wp-content/uploads/2023/07/logo.svg)](https://www.eucapacito.com.br/)
+
 
 ### Explicação sobre minhas buscas profissonais
 
