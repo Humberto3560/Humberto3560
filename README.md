@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.humberto3560)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=jrjtXSnhBlKPHpTVjqRgpHpTKKVqWVtjBkNKJMSwqLPNXFBhQFPKhRZWpJgTrBLDBKcJnCQZ)
 
-![Humberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Humberto3560&show_icons=true&theme=radical)
+###Eu busco melhoria profissional em programação, empenhando-me para aprimorar minhas habilidades e conhecimentos constantemente. Meu objetivo é sempre fazer o melhor para a empresa em que trabalho, contribuindo de forma significativa para o seu crescimento e sucesso. Estou comprometido em aprender novas tecnologias, seguir boas práticas de desenvolvimento e colaborar com minha equipe para alcançar resultados excelentes. Acredito que, ao investir no meu desenvolvimento profissional, posso oferecer soluções mais eficientes e inovadoras, agregando valor à organização e promovendo um ambiente de trabalho dinâmico e produtivo.
 
 ### Tecnologias que atualmente Trabalho:
 
