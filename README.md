@@ -8,6 +8,12 @@
 [![Twitter](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.humberto3560)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=jrjtXSnhBlKPHpTVjqRgpHpTKKVqWVtjBkNKJMSwqLPNXFBhQFPKhRZWpJgTrBLDBKcJnCQZ)
 
+### Nivel De Conhecimento:
+### atualmente estou em continuo aprendizado fazendo diversos Curso entre eles temos os sites:
+[![Curso Em Video](https://yt3.googleusercontent.com/ytc/AIdro_mPhguo8Ufpi-0XIF7xEDVgpSsB_pcYmNvECZp40wioAvY=s160-c-k-c0x00ffffff-no-rj)](https://www.cursoemvideo.com/cursos/)
+
+### Explicação sobre minhas buscas profissonais
+
 ### Eu busco melhoria profissional em programação, empenhando-me para aprimorar minhas habilidades e conhecimentos constantemente. Meu objetivo é sempre fazer o melhor para a empresa em que trabalho, contribuindo de forma significativa para o seu crescimento e sucesso. Estou comprometido em aprender novas tecnologias, seguir boas práticas de desenvolvimento e colaborar com minha equipe para alcançar resultados excelentes. Acredito que, ao investir no meu desenvolvimento profissional, posso oferecer soluções mais eficientes e inovadoras, agregando valor à organização e promovendo um ambiente de trabalho dinâmico e produtivo.
 
 ### Tecnologias que atualmente Trabalho:
@@ -18,6 +24,8 @@
 [![CSS](       https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+### Bio:
 
 I am Brazilian 🇧🇷 and this is my project repository. Thank you for visiting
 
