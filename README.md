@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.humberto3560)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=jrjtXSnhBlKPHpTVjqRgpHpTKKVqWVtjBkNKJMSwqLPNXFBhQFPKhRZWpJgTrBLDBKcJnCQZ)
 
-![Humberto Languages Works]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/Humberto3560/github-readme-stats))
+![Humberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Humberto3560&show_icons=true&theme=radical)
 
 ### Tecnologias que atualmente Trabalho:
 
@@ -18,8 +18,6 @@
 [![CSS](       https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)](https://www.java.com/pt-BR/)
-
 
 I am Brazilian 🇧🇷 and this is my project repository. Thank you for visiting
 
